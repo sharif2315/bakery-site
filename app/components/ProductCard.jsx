@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-import imgUrl from '../assets/cupcake.jpg'
+import imgUrl from '../../assets/cupcake.jpg'
 import Image from 'next/image'
 
 const ProductCard = () => {
